@@ -1,0 +1,7 @@
+2025-08-12T23:10:05 [INFO] - User 'admin' logged in successfully.
+2025-08-12T23:10:15 [INFO] - Server starting up on port 8080.
+2025-08-12T23:11:30 [WARN] - Configuration file 'settings.yml' not found, using default settings.
+2025-08-12T23:12:45 [ERROR] - Failed to connect to database: Connection timed out.
+2025-08-12T23:13:00 [DEBUG] - Processing request #1234 for user 'jdoe'.
+2025-08-12T23:14:22 [ERROR] - NullPointerException at com.example.UserService.process(UserService.java:42).
+2025-08-12T23:15:00 [INFO] - User 'jdoe' updated their profile.

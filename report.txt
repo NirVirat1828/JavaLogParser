@@ -1,0 +1,12 @@
+Log Analysis Report
+===================
+
+Log Counts by Level:
+- ERROR: 2
+- INFO: 3
+- DEBUG: 1
+- WARN: 1
+
+Critical Error Messages:
+- Failed to connect to database: Connection timed out.
+- NullPointerException at com.example.UserService.process(UserService.java:42).
